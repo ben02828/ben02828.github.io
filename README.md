@@ -1,2 +1,2 @@
-# [Please visite my homepage]().
+# [Please visit my homepage]().
 hihi everyone~

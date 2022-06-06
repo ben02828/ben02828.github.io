@@ -1,0 +1,28 @@
+div:hover p{
+	background-color:#FFE681;
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:gray;
+}
+a:hover{
+	color:green;
+}	
+a:active{
+	color:red;
+}
+body{
+		background-image:url("你不要當我好不好.png");
+		background-repeat:no-repeat;
+		background-position:right ;
+		background-attachment:fixed;
+}
+p:first-child b{
+	color:#C4E1FF;
+}
+p:first-line{
+	color:black;
+	font-size:x-large;
+}

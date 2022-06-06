@@ -1,4 +1,0 @@
-姓名(Name): 李秉軒
-學號(StudentID): 109403515
-GitHub帳號網址(Your GitHub Profile Page URL): https://github.com/ben02828
-GitHub個人CV頁面網址(Your GitHub Page URL): https://ben02828.github.io
